@@ -11,7 +11,7 @@
         android:layout_height="match_parent">
 
         <androidx.viewpager2.widget.ViewPager2
-            android:id="@+id/accountCardViewPager"
+            android:id="@+id/cardViewPager"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginTop="10dp"
@@ -35,7 +35,7 @@
             app:layout_constraintBottom_toTopOf="@id/textIndicatorCurrentLocation"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/accountCardViewPager"
+            app:layout_constraintTop_toBottomOf="@id/cardViewPager"
             android:orientation="horizontal" />
 
         <LinearLayout

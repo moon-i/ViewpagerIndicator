@@ -1,9 +1,9 @@
-package com.shinhan.viewpagerindicator.presentation
+package com.study.viewpagerindicator.presentation
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.shinhan.viewpagerindicator.databinding.CardHolderBinding
+import com.study.viewpagerindicator.databinding.CardHolderBinding
 
 //
 //  CardAdapter.kt

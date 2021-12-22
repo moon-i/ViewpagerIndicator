@@ -1,4 +1,4 @@
-package com.shinhan.viewpagerindicator
+package com.study.viewpagerindicator
 
 import org.junit.Test
 
